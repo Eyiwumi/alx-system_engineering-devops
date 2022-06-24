@@ -1,1 +1,1 @@
-(1)create a script that switches the current uswer to betty. (2)
+This readme contains alx system engineering script
